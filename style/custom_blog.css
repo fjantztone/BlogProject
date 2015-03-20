@@ -1,0 +1,30 @@
+body {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #f7f7f7;
+}
+.feat-img img {padding: 5px; border: 1px solid #ccc;}
+
+body img{
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+h1, h2, h3{
+	margin: 0;
+}
+
+.media-object{
+	width: 90px;
+	height: 90px;
+}
+.well{
+	border-radius: 0px;
+}
+.editable{ background:#EAEAEA;}

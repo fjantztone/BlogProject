@@ -1,0 +1,3 @@
+<h1>Localhost</h1>
+<p>asdadas asdsadsad sadsadsad asdadas&nbsp;asdadas asdsadsad sadsadsad asdadas&nbsp;asdadas asdsadsad sadsadsad asdadas&nbsp;asdadas asdsadsad sadsadsad asdadas&nbsp;</p>
+<p><img src="users/crille/img/1424472370_Koala.jpg" alt="" width="1024" height="768" /></p>
